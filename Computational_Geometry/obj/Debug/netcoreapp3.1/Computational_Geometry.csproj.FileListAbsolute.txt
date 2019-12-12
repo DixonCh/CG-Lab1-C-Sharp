@@ -1,0 +1,11 @@
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.exe
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.deps.json
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.runtimeconfig.json
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.runtimeconfig.dev.json
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.dll
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\bin\Debug\netcoreapp3.1\Computational_Geometry.pdb
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\obj\Debug\netcoreapp3.1\Computational_Geometry.csprojAssemblyReference.cache
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\obj\Debug\netcoreapp3.1\Computational_Geometry.AssemblyInfoInputs.cache
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\obj\Debug\netcoreapp3.1\Computational_Geometry.AssemblyInfo.cs
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\obj\Debug\netcoreapp3.1\Computational_Geometry.dll
+C:\Users\Dixon\source\repos\CGLab1\Computational_Geometry\obj\Debug\netcoreapp3.1\Computational_Geometry.pdb
